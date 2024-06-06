@@ -1,1 +1,1 @@
-Código-fonte para a landing page do Espaço Vip Cursos: http://givanaldo.github.io
+Código-fonte para a landing page http://givanaldo.github.io
